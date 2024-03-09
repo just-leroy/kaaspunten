@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920805870636",
+    "project_id": "kaaspunten",
+    "storage_bucket": "kaaspunten.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920805870636:android:849f6e3d58cd0c0f2cd589",
+        "android_client_info": {
+          "package_name": "com.example.kaas_punten"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDeJxVV2zLhRBnznlzGKN_-52mVTAXkNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
